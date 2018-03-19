@@ -1,9 +1,11 @@
 // Import Google fonts
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|Encode+Sans+Semi+Condensed|Fira+Sans|Frank+Ruhl+Libre|Glegoo|IBM+Plex+Serif|Josefin+Sans|Jura|Lekton|Limelight|Megrim|Open+Sans|PT+Sans+Narrow|Playfair+Display|Prompt|Proza+Libre|Raleway+Dots|Righteous|Trirong|Wire+One');
+
 
 // Define fonts for body and headers
-$body-font: "Open Sans", "Helvetica", "sans-serif";
-$headers-font: "Raleway", "Helvetica", "sans-serif";
+$body-font: "IBM Plex Serif", "Lekton", "sans-serif";
+$headers-font: "Josefin Sans", "Jura", "sans-serif";
 
 // To use a font file (.woff) uncomment following lines
 // @font-face {
@@ -14,3 +16,29 @@ $headers-font: "Raleway", "Helvetica", "sans-serif";
 //        font-url('FontFile.ttf') format('truetype')
 // }
 // $my-font: "Font Name";
+
+
+/*
+
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Limelight', cursive;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Raleway Dots', cursive;
+font-family: 'Megrim', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Jura', sans-serif;
+font-family: 'Encode Sans Semi Condensed', sans-serif;
+font-family: 'Wire One', sans-serif;
+font-family: 'Lekton', sans-serif;
+font-family: 'Proza Libre', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Frank Ruhl Libre', serif;
+font-family: 'Glegoo', serif;
+font-family: 'Trirong', serif;
+
+*/
